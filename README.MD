@@ -1,0 +1,1 @@
+Working files for SMP Doktorāts
