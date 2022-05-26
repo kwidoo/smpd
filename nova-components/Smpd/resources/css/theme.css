@@ -1,0 +1,24 @@
+:root {
+  --primary:rgba(98, 168, 48, 1);
+  --primary-dark: rgb(98, 168, 48, 1);
+  --primary-70: rgba(98, 168, 48, 0.7);
+  --primary-50: rgba(98, 168, 48, 0.5);
+  --primary-30: rgba(98, 168, 48, 0.3);
+  --primary-10: rgba(98, 168, 48, 0.1);
+  --logo: #62a830;
+  --sidebar-icon: white;
+}
+  .st0{fill:#FFFFFF;}
+	.st1{fill:#63A830;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.7548;stroke-miterlimit:10;}
+.bg-grad-sidebar {
+  background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    from(#62a830),
+    to(#f1faeb)
+  );
+  
+  background-image: linear-gradient(0deg, rgba(98, 168, 48, 0.5), #62a830);
+}
